@@ -10,7 +10,7 @@
 
 *DURATION*: 4 WEEKS
 
-*MENTORE*: NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH
 
 ## 🧠 Task 3: CNN for Image Classification on MNIST Dataset – Detailed Description
 
